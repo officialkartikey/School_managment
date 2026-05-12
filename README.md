@@ -212,6 +212,11 @@ https://school-managment-0ec5.onrender.com/api/listSchools?latitude=28.7041&long
   ]
 }
 ```
+# Postman Collection
+
+The Postman collection JSON file is included in this repository:
+
+[postman_collection.json](https://drive.google.com/file/d/1AxwkkSb7FEM2zu8uAiRC7CZ9i_aL9A_0/view?usp=sharing)
 
 ---
 
