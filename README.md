@@ -1,5 +1,3 @@
-<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/9c1ead48-4739-4c7a-a2d9-d7e9f260a3b2" />
-<img width="1437" height="817" alt="Screenshot 2026-05-12 115245" src="https://github.com/user-attachments/assets/5e72bd72-97fc-4d42-bf14-dfb8b6d9d4f2" />
 
 # School Management API
 
@@ -247,13 +245,13 @@ Tested using Postman.
 
 ## Add School API
 
-<img width="1440" height="860" alt="Add School API" src="PASTE_YOUR_FIRST_IMAGE_LINK_HERE" />
+<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/9c1ead48-4739-4c7a-a2d9-d7e9f260a3b2" />
 
 ---
 
 ## List Schools API
 
-<img width="1440" height="860" alt="List Schools API" src="PASTE_YOUR_SECOND_IMAGE_LINK_HERE" />
+<img width="1437" height="817" alt="Screenshot 2026-05-12 115245" src="https://github.com/user-attachments/assets/5e72bd72-97fc-4d42-bf14-dfb8b6d9d4f2" />
 
 ---
 
